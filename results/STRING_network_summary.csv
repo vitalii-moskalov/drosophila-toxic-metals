@@ -1,0 +1,3 @@
+network,nodes,edges,density,mean_degree,median_degree,average_clustering_unweighted,connected_components,isolates,average_clustering_weighted
+Full mapped network,46,105,0.10144927536231885,4.565217391304348,4.0,0.4410798139059009,10,9,0.3068548412223647
+Largest connected component,37,105,0.15765765765765766,5.675675675675675,5.0,0.5483694983694984,1,0,0.3814952080061832

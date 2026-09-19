@@ -3,6 +3,9 @@
 ```text
 drosophila-toxic-metals/
 ├── README.md
+├── LICENSE
+├── LICENSE-MIT
+├── LICENSE-CC-BY-4.0
 ├── code/
 │   ├── README.md
 │   ├── 01_literature_screening_and_gene_extraction.ipynb

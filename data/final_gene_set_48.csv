@@ -1,0 +1,49 @@
+gene,FlyBase_ID,Cd,Pb,Hg,primary_functional_category,FlyBase_basis,classification_confidence,STRING_mapped,STRING_name
+Ace,FBgn0000024,1,0,1,Neuronal function,Acetylcholinesterase; terminates acetylcholine neurotransmission.,high,1,Ace
+Akt,FBgn0010379,1,0,0,Signaling/other,Core kinase of insulin/IGF signaling.,high,1,Akt1
+dpp,FBgn0000490,0,1,0,Signaling/other,BMP/TGF-beta pathway ligand; developmental signaling.,high,1,dpp
+scw,FBgn0005590,1,0,0,Signaling/other,BMP-type ligand; BMP signaling.,high,1,scw
+Cat,FBgn0000261,1,1,0,Oxidative stress,Catalase; hydrogen-peroxide detoxification and ROS protection.,high,1,Cat
+Cdk1,FBgn0004106,1,0,0,Signaling/other,Cyclin-dependent kinase controlling mitotic/meiotic cell-cycle progression.,high,1,Cdk1
+Cdc42,FBgn0010341,1,0,0,Signaling/other,Small GTPase signaling switch and actin-cytoskeleton regulator.,high,1,Cdc42
+Ddc,FBgn0000422,0,1,0,Neuronal function,Dopa decarboxylase; dopamine and serotonin biosynthesis.,high,1,Ddc
+Debcl,FBgn0029131,1,0,0,Signaling/other,Pro-apoptotic Bcl-2-family protein; programmed cell death.,high,1,Debcl
+Delta,FBgn0000463,1,1,0,Neuronal function,Notch ligand with experimentally annotated roles in neuroblast/neuron fate specification.,moderate/multifunctional,1,Dl
+dmrt99B,FBgn0039683,0,1,0,Signaling/other,DMRT-family DNA-binding transcriptional regulator; no more specific category among the predefined classes.,high,1,dmrt99B
+Drp1,FBgn0026479,1,0,0,Mitochondrial processes,Dynamin-like GTPase mediating mitochondrial fission.,high,1,Drp1
+Dscam1,FBgn0033159,1,1,0,Neuronal function,"Cell-surface receptor involved in axon guidance, neuronal targeting and self-avoidance.",high,1,Dscam1
+Gcn5,FBgn0020388,0,1,0,Signaling/other,Histone acetyltransferase/transcriptional regulator; assigned to signaling/other in the predefined scheme.,high,1,Gcn5
+Hsc70-2,FBgn0001217,1,1,0,Proteostasis,Hsp70-family molecular chaperone/protein homeostasis.,high,1,Hsc70-2
+Hsc70-5,FBgn0001220,0,1,0,Proteostasis,Hsp70-family molecular chaperone/protein homeostasis.,high,1,Hsc70-5
+Hsf,FBgn0001222,0,1,0,Proteostasis,Heat-shock transcription factor controlling stress-induced chaperone expression.,high,1,Hsf
+Hsp23,FBgn0001224,0,0,1,Proteostasis,Small heat-shock protein; molecular chaperone/stress proteostasis.,high,1,Hsp23
+Hsp70Aa,FBgn0013275,0,0,1,Proteostasis,Hsp70-family molecular chaperone.,high,0,
+Hsp70Ab,FBgn0013276,0,1,1,Proteostasis,Hsp70-family molecular chaperone.,high,1,Hsp70Ab
+Hsp70Ba,FBgn0013277,0,0,1,Proteostasis,Hsp70-family molecular chaperone.,high,0,
+Hsp70Bb,FBgn0013278,0,0,1,Proteostasis,Hsp70-family molecular chaperone.,high,1,Hsp70Bb
+Hsp70Bbb,FBgn0051354,0,0,1,Proteostasis,Hsp70-family molecular chaperone.,high,1,Hsp70Bbb
+Hsp70Bc,FBgn0013279,0,0,1,Proteostasis,Hsp70-family molecular chaperone.,high,1,Hsp70Bc
+Hsp83,FBgn0001233,0,0,1,Proteostasis,Hsp90-family molecular chaperone.,high,1,Hsp83
+Ire1,FBgn0261984,0,1,0,Proteostasis,ER-stress sensor and unfolded-protein-response regulator.,high,1,Ire1
+bsk,FBgn0000229,0,0,1,Signaling/other,JNK-family MAP kinase; stress/signaling pathway component.,high,1,bsk
+Irk1,FBgn0265042,1,1,0,Neuronal function,Inward-rectifier K+ channel regulating neuronal excitability among its documented roles.,high,1,Irk1
+Lgr3,FBgn0039354,0,1,0,Neuronal function,Neuropeptide/protein-hormone GPCR; Ilp8-responsive receptor with neuroendocrine functions.,moderate/multifunctional,1,Lgr3
+Mekk1,FBgn0024329,1,0,0,Signaling/other,MAP kinase kinase kinase regulating stress-response signaling.,high,1,Mekk1
+Mps1,FBgn0000063,1,0,0,Signaling/other,Protein kinase required for mitotic/meiotic spindle checkpoints.,high,1,Mps1
+MTF-1,FBgn0040305,1,0,0,Detoxification/metal homeostasis,Metal-responsive transcription factor controlling metal-homeostasis genes.,high,1,MTF-1
+MtnA,FBgn0002868,1,0,1,Detoxification/metal homeostasis,Metallothionein; metal binding/homeostasis and detoxification.,high,1,MtnA
+MtnB,FBgn0002869,1,0,1,Detoxification/metal homeostasis,Metallothionein; metal binding/homeostasis and detoxification.,high,1,MtnB
+MtnC,FBgn0038790,1,1,1,Detoxification/metal homeostasis,Metallothionein; metal binding/homeostasis and detoxification.,high,1,MtnC
+MtnD,FBgn0053192,1,0,1,Detoxification/metal homeostasis,Metallothionein; metal binding/homeostasis and detoxification.,high,1,MtnD
+Pvr,FBgn0032006,1,1,0,Signaling/other,Receptor tyrosine kinase activating MAPK/PI3K/TOR/Rho/JNK signaling.,high,1,Pvr
+Rab5,FBgn0014010,0,1,0,Signaling/other,Small Rab GTPase regulating endosomal trafficking; assigned to signaling/other.,high,1,Rab5
+Rbfox1,FBgn0052062,1,1,0,Neuronal function,RNA-binding/splicing regulator with documented neural functions; retained in the neuronal category used for Fig. 4.,moderate/multifunctional,1,Rbfox1
+scrib,FBgn0263289,1,1,0,Neuronal function,Polarity/synaptic scaffolding protein; organizes synaptic architecture and contributes to learning/memory.,moderate/multifunctional,1,scrib
+Sod1,FBgn0003462,0,1,0,Oxidative stress,Cytoplasmic superoxide dismutase; ROS scavenging.,high,1,Sod1
+Sod2,FBgn0010213,1,0,0,Oxidative stress,Mitochondrial superoxide dismutase; classified by primary antioxidant function in the predefined hierarchy.,moderate/multifunctional,1,Sod2
+Sod3,FBgn0033631,0,1,0,Oxidative stress,Superoxide dismutase; ROS scavenging.,high,1,Sod3
+Stat92E,FBgn0016917,0,1,0,Signaling/other,Core JAK/STAT transcription factor.,high,1,Stat92E
+Tl,FBgn0262473,1,1,0,Signaling/other,Toll receptor; Toll/NF-kappaB signaling and immunity.,high,1,Tl
+TrpA1,FBgn0035934,1,1,0,Neuronal function,TRPA1 cation channel mediating thermal/chemical sensory responses and nociception.,high,1,TrpA1
+upd3,FBgn0053542,1,0,1,Signaling/other,Secreted cytokine activating JAK/STAT signaling.,high,1,upd3
+Xrp1,FBgn0261113,1,0,0,Signaling/other,DNA-binding stress/genome-stability regulator; assigned to signaling/other in the predefined scheme.,high,1,Xrp1

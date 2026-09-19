@@ -92,3 +92,11 @@ The repository distinguishes archived source/validation data, executable code, e
 ## External resources
 
 The workflow uses data or outputs from FlyBase, NCBI PubMed/PubMed Central, Europe PMC, g:Profiler/g:GOSt, STRING v12.5, and DIOPT. Database versions, access dates, search procedures, and analytical parameters are described in the associated manuscript and repository files.
+
+## License
+
+Software and code in the `code/` directory are licensed under the MIT License. See `LICENSE-MIT`.
+
+Original curated datasets, derived analysis results, and repository documentation are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0), unless otherwise indicated. See `LICENSE-CC-BY-4.0`.
+
+Third-party content remains subject to the applicable terms and licenses of the original sources. See `LICENSE` for details.
